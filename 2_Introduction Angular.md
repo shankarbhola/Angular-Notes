@@ -1,10 +1,6 @@
-![](https://i.ibb.co/kQXpnLB/image.png)
-![](https://i.ibb.co/zsXJTb5/image.png)
+![](https://i.ibb.co/ysnSwmC/library.png)
 ![](https://i.ibb.co/CvzkQNc/image.png)
 
----
-![](https://i.ibb.co/Q8GSNVZ/image.png)
-![](https://i.ibb.co/QXNH5zM/image.png)
 ```cmd
 npm install angular --save
 ```
@@ -50,3 +46,39 @@ Angular JS
 - Testing
 - Separation
 - Angular JS version 1x   [1.8]
+
+
+**Google  Angular JS Team**
+- Build an alternative for Angular.js
+- Google started a new language called "atScript"
+- Microsoft  Anders Hejlberg - C# .NET  - TypeScript
+- TypeScript as language Angular
+- Angular 2.0
+	- It uses TypeScript instead of JavaScript
+	- Typescript is OOP
+	- Introduced Modular Library
+	- Light weight Apps
+	- 10x faster that angular .js
+	- Differential Loading [Compatibility Issues]
+	- AOT technique 
+- Latest Version of Angular 13.
+	- Angular 10	- LTS
+	- Angular 11	- LTS
+	- Angular 12	- Active - LTS
+	- Angular 13	- Active
+
+**What is Difference between Angular JS and Angular?**
+- Angular JS - Framework
+- Angular -  Developers Platform
+	- Language to build
+	- Framework to control app flow
+	- Framework for testing
+	- Tools for deploying
+
+**Is Angular advance to Angular JS?**
+Yes
+
+**Is Angular replacement for Angular.JS**
+No. It is just an alternative for Angular JS
+
+Type Script
