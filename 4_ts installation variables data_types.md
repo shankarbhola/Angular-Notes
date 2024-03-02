@@ -158,12 +158,12 @@ Primitive Types
 	- hexa
 	- octa
 2. string
+	<br>
 	" "
 	<br>
 	'  '
 	<br>
 	\` `  
-
 	<br> 
 
 	\`${ }`
