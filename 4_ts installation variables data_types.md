@@ -159,9 +159,13 @@ Primitive Types
 	- octa
 2. string
 	" "
+	<br>
 	'  '
+	<br>
 	\` `  
+
 	<br> 
+
 	\`${ }`
 3. boolean
 	true / false  [not 1 or 0]
