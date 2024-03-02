@@ -171,9 +171,10 @@ Primitive Types
 **Note:** TypeScript supports "union" of type.
 
 Syntax:
-	```ts 
-	let  variableName: string | number | boolean ; 
-	```
+
+```ts 
+let  variableName: string | number | boolean ; 
+```
 
 
 
