@@ -158,15 +158,10 @@ Primitive Types
 	- hexa
 	- octa
 2. string
-	<br>
-	" "
-	<br>
-	'  '
-	<br>
-	\` `  
-	<br> 
-
-	\`${ }`
+	- " "
+	- '  '
+	- \` `   
+	- \`${ }`
 3. boolean
 	true / false  [not 1 or 0]
 4. null
