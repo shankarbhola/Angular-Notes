@@ -50,11 +50,13 @@ TypeScript in Web Application
 -
 1. Every typescript file must have the extension  ".ts"
 2. Go to "src" folder and add a new file
-	      "index.ts"
+```ts
+//index.ts
   function bodyload(){
     let username:string = prompt("Enter User Name");
     document.querySelector("p").innerHTML = \`Hello ! ${username}`;
 }
+```
 
 3. Open file location in your terminal and trans compiler
 
@@ -78,12 +80,11 @@ TypeScript in Web Application
 TypeScript in Console Mode
 =====================
 1. Write a type script program
-
-	demo.ts
-
-      let username:string = "John";
-      console.log(\`Hello ! ${username} welcome to TypeScript`);
-
+```ts
+//demo.ts
+let username:string = "John";
+console.log(\`Hello ! ${username} welcome to TypeScript`);
+```
 2. Transcompile
 	
 	>tsc  demo.ts
@@ -167,10 +168,12 @@ Primitive Types
 4. null
 5. undefined
 
-Note: TypeScript supports "union" of type.
+**Note:** TypeScript supports "union" of type.
 
 Syntax:
-	   let  variableName: string | number | boolean ;
+	```ts 
+	let  variableName: string | number | boolean ; 
+	```
 
 
 
